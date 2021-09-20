@@ -1,0 +1,1 @@
+db.col007.insertOne({y:'Hola Dani'})
